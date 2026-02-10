@@ -1,0 +1,28 @@
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\bin\Debug\net10.0\InterestCalculator.exe
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\bin\Debug\net10.0\InterestCalculator.deps.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\bin\Debug\net10.0\InterestCalculator.runtimeconfig.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\bin\Debug\net10.0\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\bin\Debug\net10.0\InterestCalculator.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfoInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfo.cs
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.csproj.CoreCompileInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\refint\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\InterestCalculator.genruntimeconfig.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\Villan. John David M\InterestCalculator\InterestCalculator\obj\Debug\net10.0\ref\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\bin\Debug\net10.0\InterestCalculator.exe
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\bin\Debug\net10.0\InterestCalculator.deps.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\bin\Debug\net10.0\InterestCalculator.runtimeconfig.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\bin\Debug\net10.0\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\bin\Debug\net10.0\InterestCalculator.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfoInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.AssemblyInfo.cs
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.csproj.CoreCompileInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\refint\InterestCalculator.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\InterestCalculator.genruntimeconfig.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\InterestCalculator\obj\Debug\net10.0\ref\InterestCalculator.dll
