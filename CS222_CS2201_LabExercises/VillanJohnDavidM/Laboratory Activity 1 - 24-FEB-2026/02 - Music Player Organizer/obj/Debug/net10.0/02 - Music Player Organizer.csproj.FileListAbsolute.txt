@@ -1,0 +1,14 @@
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.AssemblyInfoInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.AssemblyInfo.cs
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.csproj.CoreCompileInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.exe
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.deps.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.runtimeconfig.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\refint\02 - Music Player Organizer.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.genruntimeconfig.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\ref\02 - Music Player Organizer.dll

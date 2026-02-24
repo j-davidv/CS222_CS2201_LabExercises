@@ -1,0 +1,14 @@
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\bin\Debug\net10.0\01 - PentagonClass.exe
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\bin\Debug\net10.0\01 - PentagonClass.deps.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\bin\Debug\net10.0\01 - PentagonClass.runtimeconfig.json
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\bin\Debug\net10.0\01 - PentagonClass.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\bin\Debug\net10.0\01 - PentagonClass.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.AssemblyInfoInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.AssemblyInfo.cs
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.csproj.CoreCompileInputs.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\refint\01 - PentagonClass.dll
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.pdb
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\01 - PentagonClass.genruntimeconfig.cache
+E:\USER\Desktop\CS222_CS2201_LabExercises\VillanJohnDavidM\Laboratory Activity 1 - 24-FEB-2026\01 - PentagonClass\obj\Debug\net10.0\ref\01 - PentagonClass.dll
